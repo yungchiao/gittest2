@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yungchiao/gittest2/static/css/main.073c9b0a.css",
+    "main.js": "/yungchiao/gittest2/static/js/main.49b55c41.js",
+    "static/js/787.f912ce4d.chunk.js": "/yungchiao/gittest2/static/js/787.f912ce4d.chunk.js",
+    "static/media/logo.svg": "/yungchiao/gittest2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yungchiao/gittest2/index.html",
+    "main.073c9b0a.css.map": "/yungchiao/gittest2/static/css/main.073c9b0a.css.map",
+    "main.49b55c41.js.map": "/yungchiao/gittest2/static/js/main.49b55c41.js.map",
+    "787.f912ce4d.chunk.js.map": "/yungchiao/gittest2/static/js/787.f912ce4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.49b55c41.js"
+  ]
+}
